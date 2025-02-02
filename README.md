@@ -20,8 +20,7 @@ Ambiente de desenvolvimento: SDK do Raspberry Pi Pico configurado (CMake, GCC AR
 Cabo USB: Para alimentação e comunicação serial com o Raspberry Pi Pico.
 
 ## 2. Compilação e Upload
-Clone este repositório:
-git clone https://github.com/lfx2k1/Atividade-1-Temporizador-periodico-UND-4.git
+Clone este repositório: git clone https://github.com/lfx2k1/Atividade-1-Temporizador-periodico-UND-4.git
 
 cd Atividade-1-Temporizador-periodico-UND-4.git
 
