@@ -15,15 +15,16 @@ O projeto mostra um semáforo a partir do uso de três Leds, nas cores vermelha,
 
 ## 1. Pré-requisitos
 Antes de rodar o programa, certifique-se de ter os seguintes itens configurados:
-Placa: Raspberry Pi Pico
-Ambiente de desenvolvimento: SDK do Raspberry Pi Pico configurado (CMake, GCC ARM, etc.)
-Cabo USB: Para alimentação e comunicação serial com o Raspberry Pi Pico
+Placa: Raspberry Pi Pico.
+Ambiente de desenvolvimento: SDK do Raspberry Pi Pico configurado (CMake, GCC ARM, etc.).
+Cabo USB: Para alimentação e comunicação serial com o Raspberry Pi Pico.
 
 ## 2. Compilação e Upload
 Clone este repositório:
 git clone https://github.com/lfx2k1/Atividade-1-Temporizador-periodico-UND-4.git
 
 cd Atividade-1-Temporizador-periodico-UND-4.git
+
 Compile o código
 
 Após a compilação, um arquivo .uf2 será gerado. Para enviá-lo ao Raspberry Pi Pico:
