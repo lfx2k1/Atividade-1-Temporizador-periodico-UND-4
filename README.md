@@ -4,7 +4,7 @@ Repositório para atividade de temporizador periódico do programa de Sistemas E
 ## Descrição: 
 O projeto mostra um semáforo a partir do uso de três Leds, nas cores vermelha, amarela(somente na simulação, pois na placa BitDogLab sua cor é azul) e verde. O acionamento ocorre a cada 3 segundos, onde a cor inicial é vermelha, onde é visualizada a contagem do tempo no terminal.
 
-##Passo-a-passo
+## Passo-a-passo
 1) O acionamento dos LEDs (sinais do semáforo) inicia na cor vermelha, alterando para azul (amarela apenas na simulação do Wokwi),e, em seguida, verde;
 2) O temporizador tem um atraso de 3 segundos (3.000ms) para cada mudança de cor do semáforo;
 3) A mudança de estado ocorre com uso da função de call-back do temporizador, para o mesmo exemplo da rotina trabalhada no Embarcatech, cujo nome é repeating_timer_callback();
